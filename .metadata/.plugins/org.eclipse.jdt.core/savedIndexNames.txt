@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+E:\Lectures\Android\BaiTap\.metadata\.plugins\org.eclipse.jdt.core
+233490675.index
+2128386620.index
+3821235455.index
+4257860656.index
+3886573821.index
+1277287846.index
+4138252807.index
+1697559646.index
